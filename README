@@ -1,0 +1,8 @@
+# Setup
+
+- deploy new instance of the contract.sol
+- update contract address in script.jsx
+- serve the files (for example with `python -m SimpleHTTPServer 9092`)
+- open Mist browser and open the page inside it
+- share an identity (account) with this Dapp (upper right corner in Mist) // note: app could as well ask for it when sending tx, but this seems to be broken in some cases
+- done, now send some messages
